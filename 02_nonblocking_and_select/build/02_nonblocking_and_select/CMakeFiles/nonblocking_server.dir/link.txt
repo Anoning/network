@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/nonblocking_server.dir/nonblocking_server.c.o  -o ../bin/nonblocking_server  ../lib/libYT.a -lpthread 

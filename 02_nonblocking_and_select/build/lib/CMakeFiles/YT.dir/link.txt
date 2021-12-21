@@ -1,0 +1,2 @@
+/usr/bin/ar qc libYT.a  CMakeFiles/YT.dir/tcp_server.c.o CMakeFiles/YT.dir/tcp_client.c.o
+/usr/bin/ranlib libYT.a
